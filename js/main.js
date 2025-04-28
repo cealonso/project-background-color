@@ -1,3 +1,5 @@
+// Ejercicio a probar
+
 document.getElementById("color").addEventListener("click", changeBackground);
 
 function changeBackground() {
